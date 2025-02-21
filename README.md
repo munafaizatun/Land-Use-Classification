@@ -1,4 +1,4 @@
-# Multiclass-Spatial-Classification
+#Land Use Classification
 
 ## Overview
 Proyek ini bertujuan untuk mengklasifikasikan penggunaan lahan berdasarkan citra satelit Sentinel-2 dengan menggunakan beberapa metode klasifikasi untuk mengevaluasi kinerja model dalam membedakan tiga kelas penggunaan lahan: vegetasi, non-vegetasi, dan perairan. Dengan menggunakan teknik penginderaan jauh dan machine learning dan deep learning, proyek ini bertujuan untuk memberikan pemahaman yang lebih baik mengenai dinamika perubahan penggunaan lahan di sekitar kawasan universitas.
