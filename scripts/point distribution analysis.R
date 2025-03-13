@@ -64,10 +64,3 @@ z_hit<-sqrt(m-1/2)*(VMR-1);z_hit
 # a.	Z hitung > 1.96 maka konfigurasi titik adalah uniform/regular 
 # b.	Z hitung < -1.96 maka konfigurasi titik adalah cluster
 
-##using k-function
-K<-Kest(bangunan2.ppp,correction = "Ripley")
-plot(K,main="K-function")
-
-mad.test(bangunan2.ppp, Kest, nsim = 99, alternative = "two.sided")
-
-
