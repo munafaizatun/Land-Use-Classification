@@ -10,17 +10,17 @@ Land use change is a crucial phenomenon that occurs alongside regional developme
 
 With advancements in remote sensing technology, particularly satellite imagery, land use classification can now be performed more efficiently and with high accuracy. This approach utilizes satellite image data to classify areas into specific categories, which are useful for spatial analysis and resource management.
 
-## Tujuan Proyek
+## Project Objectives
 This project aims to classify land use around the university area using Sentinel-2 satellite imagery and evaluate the performance of various classification methods based on accuracy, sensitivity, specificity, and Area Under the Curve (AUC). In addition, the project includes density analysis using QGIS to identify the spatial distribution of non-vegetation and point distribution analysis to understand the overall land use category distribution patterns.
 
-## Metodologi
+## Methodology
 Several classification methods used in this study include:
 
 1. **Support Vector Machine (SVM)**: A supervised machine learning algorithm that seeks the optimal hyperplane to separate data classes in binary classification.
 2. **Naive Bayes (NB)**: A probabilistic model based on Bayes' theorem, assuming feature independence, suitable for probability-based classification.
 3. **Backpropagation Neural Network (BNN)**: A neural network algorithm used to optimize weights in spatial data classification.
 
-## Data yang Digunakan
+## Data Used
 The dataset used in this project consists of Sentinel-2 satellite imagery, focusing on band 8 (Near Infrared) and band 11 (Shortwave Infrared). This data is combined with ground truth information from manual digitization to improve classification accuracy. The dataset is used to train and test models in identifying three land use categories:
 
 1. Vegetation
@@ -30,7 +30,7 @@ The dataset used in this project consists of Sentinel-2 satellite imagery, focus
 The dataset band can be accessed via the following link:
 [Google Drive - Dataset](https://drive.google.com/drive/folders/1jSsVc_lkQj-PvB0hrmVFfENTGLtWjKvv?usp=sharing)
 
-## Hasil
+## Result
 Experimental results show that the Support Vector Machine (SVM) method delivers the best performance in land use classification, achieving the highest accuracy with minimal differences between training and testing data. This model successfully identifies classification patterns with lower error rates than other methods. These findings indicate that machine learning-based approaches, particularly SVM, can serve as a foundation for developing more efficient and accurate spatial classification models for future land use analysis.
 
 Beyond land use classification, a density analysis using QGIS was conducted to examine the distribution of non-vegetation within the study area. The results reveal a significant concentration of non-vegetation around major infrastructure, indicating the impact of urban development. Additionally, potential growth areas within a 3-5 km radius of Universitas Riau (UNRI) were identified, emphasizing the importance of implementing sustainable land-use policies in accordance with Law No. 26/2007 on Spatial Planning.
