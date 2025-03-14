@@ -19,10 +19,13 @@ Beberapa metode klasifikasi yang digunakan dalam penelitian ini meliputi:
 3. Backpropagation Neural Network (BNN): Algoritma jaringan syaraf tiruan yang digunakan untuk mengoptimalkan bobot dalam klasifikasi data spasial.
 
 ## Data yang Digunakan
-Dataset yang digunakan dalam proyek ini mencakup citra satelit Sentinel-2, khususnya menggunakan band 8 (Near Infrared) dan band 11 (Shortwave Infrared), yang digabungkan dengan data ground truth hasil digitasi manual. Data ini digunakan untuk melatih dan menguji model klasifikasi dalam mengidentifikasi perbedaan antara tiga kelas penggunaan lahan yang berbeda, yaitu:
+Dataset yang digunakan dalam proyek ini terdiri dari citra satelit Sentinel-2, dengan fokus pada band 8 (Near Infrared) dan band 11 (Shortwave Infrared). Data ini dikombinasikan dengan informasi ground truth hasil digitasi manual untuk meningkatkan akurasi dalam proses klasifikasi. Dataset ini digunakan untuk melatih dan menguji model dalam mengidentifikasi tiga kelas penggunaan lahan, yaitu:
 1. Vegetasi
 2. Non-vegetasi
 3. Perairan
+
+Dataset dapat diakses melalui tautan berikut:
+[Google Drive - Dataset](https://drive.google.com/drive/folders/1jSsVc_lkQj-PvB0hrmVFfENTGLtWjKvv?usp=sharing)
 
 ## Hasil
 Hasil eksperimen menunjukkan bahwa metode SVM memberikan performa terbaik dalam klasifikasi penggunaan lahan, dengan akurasi tertinggi serta perbedaan minimal antara data pelatihan dan pengujian. Model ini berhasil mengidentifikasi pola klasifikasi dengan tingkat kesalahan yang lebih rendah dibandingkan metode lainnya. Hasil ini menunjukkan bahwa pendekatan ini dapat dijadikan dasar dalam pengembangan model klasifikasi spasial berbasis machine learning dan deep learning untuk analisis penggunaan lahan yang lebih efisien dan akurat di masa depan.
