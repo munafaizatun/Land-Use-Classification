@@ -27,7 +27,7 @@ The dataset used in this project consists of Sentinel-2 satellite imagery, focus
 2. Non-vegetation
 3. Water bodies
 
-The dataset can be accessed via the following link:
+The dataset band can be accessed via the following link:
 [Google Drive - Dataset](https://drive.google.com/drive/folders/1jSsVc_lkQj-PvB0hrmVFfENTGLtWjKvv?usp=sharing)
 
 ## Hasil
