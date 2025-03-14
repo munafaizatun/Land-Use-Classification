@@ -3,11 +3,11 @@ library(raster)
 library(sp)  
 library(sf)  
 library(caret)  
-library(kernlab) #SVM model
+library(kernlab)
 library(pROC)
 library(data.table)
-library(naivebayes) #NB model
-library(neuralnet) #BNN model
+library(naivebayes)
+library(neuralnet)
 
 data<-read.csv("datatrainingg.csv")
 #data <-read.csv(file.choose(), header=TRUE, sep=",") 
