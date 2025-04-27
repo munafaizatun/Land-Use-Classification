@@ -48,3 +48,5 @@ Additionally, potential growth zones within a 3–5 km radius from Universitas R
 Point distribution analysis indicates that vegetation is concentrated around UNRI, reflecting the presence of green spaces and open areas within the campus environment. Meanwhile, non-vegetation is more dominant in areas near main roads and residential zones, while water bodies are sporadically distributed across several points in the study area.
 
 These findings support the formulation of spatial strategies aligned with Law No. 26 of 2007 on Spatial Planning and offer valuable insights for guiding urban development around academic hubs.
+
+The complete analysis and detailed discussion of this study have been published in the following journal article: [Access the Journal Publication Here](https://journal.ummat.ac.id/index.php/jtam/article/view/29683)
