@@ -49,4 +49,4 @@ Point distribution analysis indicates that vegetation is concentrated around UNR
 
 These findings support the formulation of spatial strategies aligned with Law No. 26 of 2007 on Spatial Planning and offer valuable insights for guiding urban development around academic hubs.
 
-The complete analysis and detailed discussion of this study have been published in the following journal article: [Access the Journal Publication Here](https://journal.ummat.ac.id/index.php/jtam/article/view/29683)
+The complete analysis and detailed discussion of this study have been published in the following journal article: [Access the Journal Publication](https://journal.ummat.ac.id/index.php/jtam/article/view/29683)
