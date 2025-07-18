@@ -51,4 +51,5 @@ These findings support the formulation of spatial strategies aligned with Law No
 
 The complete analysis and detailed discussion of this study have been published in the following journal article: [Access the Journal Publication](https://journal.ummat.ac.id/index.php/jtam/article/view/29683)
 
-This project is developed by Muna Faizatun Nabilah.
+## Author  
+This project is developed by **Muna Faizatun Nabilah**
