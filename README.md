@@ -21,7 +21,7 @@ A supervised classification approach was applied using spectral bands (NIR—Ban
 Data were split using stratified 80-20 training-testing sets to ensure balanced evaluation.
 
 ## Data
-Sentinel-2 imagery (10 m resolution) was combined with ground truth from manual digitization to improve accuracy. The dataset focused on three classes: vegetation, non-vegetation, and water bodies. Data can be accessed via [Google Drive – Dataset](https://drive.google.com/drive/folders/1jSsVc_lkQj-PvB0hrmVFfENTGLtWjKvv?usp=sharing).
+Sentinel-2 imagery (10 m resolution) was combined with ground truth from manual digitization to improve accuracy. The dataset focused on three classes: vegetation, non-vegetation, and water bodies.
 
 ## Result
 - **Classification Performance**: SVM achieved the highest accuracy: 91.15% (2022) and 83.90% (2023), with minimal variance between training and testing sets.
